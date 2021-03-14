@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KWDM_projekt", "KWDM_projekt\KWDM_projekt.csproj", "{99C43F3D-176E-4434-8E7D-CD837BCC6C30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99C43F3D-176E-4434-8E7D-CD837BCC6C30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C43F3D-176E-4434-8E7D-CD837BCC6C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C43F3D-176E-4434-8E7D-CD837BCC6C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C43F3D-176E-4434-8E7D-CD837BCC6C30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E1C8A25-83CE-433B-AA17-62C551CF92E6}
+	EndGlobalSection
+EndGlobal

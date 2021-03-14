@@ -1,0 +1,17 @@
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.csprojAssemblyReference.cache
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\Interop.MLApp.dll
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.csproj.ResolveComReference.cache
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.Main.resources
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.Properties.Resources.resources
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.csproj.GenerateResource.cache
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.csproj.CoreCompileInputs.cache
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\KWDM_projekt.exe.config
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\KWDM_projekt.exe
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\KWDM_projekt.pdb
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\gdcm-sharp.dll
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\MatCode.dll
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\MWArray.dll
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\bin\Debug\MWArray.xml
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.csproj.CopyComplete
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.exe
+C:\Users\twaju\Desktop\semsestr_II_mgr\KWDM\KWDM_nowotworow_piersi\KWDM_projekt\KWDM_projekt\obj\Debug\KWDM_projekt.pdb
